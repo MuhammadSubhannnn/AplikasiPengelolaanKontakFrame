@@ -44,4 +44,4 @@ Muhammad Subhan (2210010215)
 Latihan 3 Aplikasi Pengelolaan Kontak
 
 # Demo 
-![App Screenshot](img/pengelolaankontak.png)
+![App Screenshot](img/AplikasiPengelolaanKontak.gif)
